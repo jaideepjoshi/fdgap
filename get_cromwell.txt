@@ -1,0 +1,1 @@
+wget https://github.com/broadinstitute/cromwell/releases/download/31/cromwell-31.jar
